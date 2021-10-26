@@ -1,4 +1,4 @@
-package day02;
+package day03_Scanner;
 
 public class C06_HomeWork {
     public static void main(String[] args) {
