@@ -14,6 +14,5 @@ public class C05_PreDecrementPostDecrement {
 		System.out.println(number); // 8
 		System.out.println(--a);
 				
-
 	}
 }

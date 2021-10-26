@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class C07_HomeWorkScanner {
     public static void main(String[] args) {
+		
 		//Soru 1) Kullanicidan iki tamsayi alip bu sayilarin toplam,fark ve carpimlarini yazdirin
 		//Soru 2) Kullanicidan karenin bir kenar uzunlugunu alin ve karenin cevresini ve alanini hesaplayip yazdirin
 		//Soru 3) Kullanicidan yaricap isteyip cemberin cevresini ve dairenin alanini hesaplayip yazdirin

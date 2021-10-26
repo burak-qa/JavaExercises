@@ -2,8 +2,6 @@ package day02;
 
 public class C06_HomeWork {
     public static void main(String[] args) {
-		
-		
 		//Birinci varyant (Scanner kullanmadan!)
 		//1-Kullanicidan iki tamsayi alip bu sayilarin toplam, fark ve carpimlarini yazdirin
 		
@@ -70,11 +68,5 @@ public class C06_HomeWork {
         String basHarfler=isim1.substring(0,1)+" "+soyIsim1.substring(0,1);
         System.out.println("Isim ve soyisminizin basharfleri:"+ basHarfler);
         
-        
-        
-		
-		
-		
-		
 	}
 }
