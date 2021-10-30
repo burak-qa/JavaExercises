@@ -18,5 +18,6 @@ public class C04_IfStatements {
 	
 		if (b>100) {
 			System.out.println("b satisi 100'den buyuk");
+		}
     }
 }
