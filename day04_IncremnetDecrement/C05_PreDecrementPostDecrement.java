@@ -1,4 +1,4 @@
-package day03;
+package day04_IncremnetDecrement;
 
 public class C05_PreDecrementPostDecrement {
     public static void main(String[] args) {
