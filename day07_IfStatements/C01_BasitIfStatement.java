@@ -1,3 +1,4 @@
+package day07_IfStatements;
 import java.util.Scanner;
 
 public class C01_BasitIfStatement {
