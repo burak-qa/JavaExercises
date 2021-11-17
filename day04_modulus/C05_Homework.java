@@ -1,4 +1,4 @@
-package day04;
+package day04_modulus;
 
 public class C05_Homework {
     public static void main(String[] args) {
