@@ -1,4 +1,4 @@
-package day04;
+package day04_modulus;
 
 public class C02_MatematikIslemleri {
     public static void main(String[] args) {

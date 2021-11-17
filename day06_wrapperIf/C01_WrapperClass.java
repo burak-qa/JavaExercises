@@ -1,4 +1,4 @@
-package day06_If;
+package day06_wrapperIf;
 
 public class C01_WrapperClass {
     public static void main(String[] args) {

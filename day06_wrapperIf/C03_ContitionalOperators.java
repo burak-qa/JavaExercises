@@ -1,4 +1,4 @@
-package day06_If;
+package day06_wrapperIf;
 
 public class C03_ContitionalOperators {
     public static void main(String[] args) {
