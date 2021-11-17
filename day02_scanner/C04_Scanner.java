@@ -1,14 +1,9 @@
-package day02;
+package day02_scanner;
 
 import java.util.Scanner;
 
-public class C05_Scanner {
+public class C04_Scanner {
     public static void main(String[] args) {
-		// Scanner isleminde string icin 2 method vardir
-		//scan.next() dedigimizde sadece 1 kelime alir
-		//eger kullanicidan daha fazla kelime gelme ihtimali varsa 
-		//scan.nextLine() kullanmaliyiz
-		
 		// Kullanicidan isim ve soyismini ayri ayri isteyip 
 		//girilen ismi asagidaki gibi yazdirin
 		
@@ -18,14 +13,14 @@ public class C05_Scanner {
 		
 		System.out.println("Lutfen isminizi yaziniz...");
 		
-		String name=scan.nextLine();
+		String name=scan.next();
 		
 		System.out.println("Lutfen soyisminizi yaziniz...");
 		
-		String surname=scan.nextLine();
+		String surname=scan.next();
 		
 		System.out.println("Girilen isim: " + name + " " + surname );
-		
 		scan.close();
+		
 	}
 }

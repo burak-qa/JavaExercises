@@ -1,4 +1,4 @@
-package day03;
+package day03_incrementDecreent;
 
 public class C01_AutoWidening {
     public static void main(String[] args) {

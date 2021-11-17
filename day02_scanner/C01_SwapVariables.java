@@ -1,4 +1,4 @@
-package day02;
+package day02_scanner;
 
 public class C01_SwapVariables {
     public static void main(String[] args) {
