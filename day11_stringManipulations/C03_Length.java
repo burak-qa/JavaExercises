@@ -1,4 +1,4 @@
-package day11_EstringManipulations;
+package day11_stringManipulations;
 
 public class C03_Length {
     public static void main(String[] args) {
