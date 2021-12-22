@@ -2,6 +2,7 @@ package day31_dateAndTime;
 
 import java.time.LocalDate;
 import java.time.LocalTime;
+import java.time.Month;
 
 public class C01_LocalDate {
 
@@ -32,6 +33,12 @@ public class C01_LocalDate {
 		
 		
 		System.out.println(tarih.minusYears(21).isLeapYear());//true
+		
+		LocalDate dogumTarihi1= LocalDate.of(1998, Month.JANUARY, 12);//1998-01-12,
+		LocalDate dogumTarihi2=LocalDate.of(2008, 05, 12);//2008-05-12
+		
+		System.out.println(dogumTarihi1+ ", " + dogumTarihi2);
+		System.out.println(dogumTarihi1.isAfter(dogumTarihi2)); //false 
 		
 		
 		
