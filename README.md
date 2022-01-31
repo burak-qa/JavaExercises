@@ -1,4 +1,4 @@
-# JavaExercises
+# JavaExercises and SeleniumExercises
 GIT KOMUTLARI
 ---------------
  - KULLANICI BILGILERI :
