@@ -1,0 +1,25 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="meyhodlar">
+    <test name="otel">
+        <classes>
+            <class name="tests.day18.C02_Webtable">
+                <methods>
+                    <exclude name="printRows"></exclude>
+                    <include name="loginT"></include>
+                    <!--method secimi yapilirken
+                    include: secilirse geriye kalanlar exclude gibi olur
+                    excloude seclirse geriye kalanlar include olur-->
+                </methods>
+            </class>
+            <class name="tests.day19.C01_WebTableDynamicLocate">
+                <methods><include name="writeLineTest"></include>
+
+                </methods>
+
+            </class>
+        </classes>
+    </test>
+</suite>
+
+<!-- eger bir test icerisinde birden fazla hiyerarsi olusturmamiz gerekirse
+uygun kirilma noktasi belirleyip oradan hiyerarsiyi yeniden olusturabiliriz-->
